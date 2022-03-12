@@ -1,0 +1,9 @@
+/* css styles */
+
+div {
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
